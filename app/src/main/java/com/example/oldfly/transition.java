@@ -23,6 +23,7 @@ public static MediaPlayer mus_for_game;
     public static ImageButton replay;
     public static ImageButton restart;
     public static ImageView background_for_pause;
+    //commit
 
 
     public static int getPlane() {
